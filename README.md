@@ -1,7 +1,7 @@
 # tiktok-reporting-bot
 <p align="center"><img src="logos.png" width="150px" height="350px" alt="insta logo"></p>
 
-<h2 align="center">Join our telegram here > <a href="https://t.me/snpytiktok"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></h2>
+<h2 align="center">Join our telegram here > <a href="https://telegram.me/snpytiktok"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></h2>
 
 ## What is a Bot/Tool for Reporting an Account on TikTok ❓
    Definition of a Bot/Tool:.
@@ -11,7 +11,7 @@
 
 
 # How can i get this Bot/Tool or to report an account ❓
-  * Join our telegram here > <a href="https://t.me/snpytiktok"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  * Join our telegram here > <a href="https://telegram.me/snpytiktok"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   * Check all the proof.
   * Below each video you will see our contact starting with @ contact us on that username.
 </pre>
